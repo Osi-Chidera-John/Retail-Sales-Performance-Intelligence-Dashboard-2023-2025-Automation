@@ -73,7 +73,7 @@ This project analyzes retail transactions from **2023–2025** to provide real-t
 
 ## 🔗 Project Access
 
-📂 **Dashboard:** *(Add Excel file or OneDrive link)*
+📂 **Dashboard:** *([Access here](https://github.com/Osi-Chidera-John/Retail-Sales-Performance-Intelligence-Dashboard-2023-2025-Automation/blob/main/Retail_Sales.xlsm))*
 
 ---
 

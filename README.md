@@ -2,6 +2,7 @@
 
 An automated Business Intelligence solution built with **Microsoft Excel, Power Query, and VBA** that transforms raw retail sales data into interactive executive dashboards for monitoring sales performance, profitability, and operational efficiency.
 
+> *![second_board](Retail_Sales_dashboard.gif)*
 ---
 
 ## 📌 Project Overview
@@ -24,7 +25,7 @@ This project analyzes retail transactions from **2023–2025** to provide real-t
 
 ## 📊 Dashboard Preview
 
-> *(Insert dashboard screenshot here)*
+> *![second_board](dashboard.png)*
 
 ---
 

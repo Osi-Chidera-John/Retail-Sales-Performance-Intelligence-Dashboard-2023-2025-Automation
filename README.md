@@ -163,7 +163,7 @@ This eliminates manual reporting and supports **live operational decision-making
 
 ### 📌 Executive Dashboard Overview
 
-![Dashboard Overview](Retaildashboard.png)
+![Dashboard Overview](Retail_Sales_dashboard.gif))
 
 
 ---
@@ -221,7 +221,7 @@ This project highlights:
 ## 📬 Contact
 
 * 📧 Email: chiderajohn519@gmail.com
-* 💼 LinkedIn:  https://www.linkedin.com/in/john-chidera-jr-0b6b55319/
+* 💼 LinkedIn: [View Proflie]( https://www.linkedin.com/in/john-chidera-jr-0b6b55319/)
 ---
 
 ## 🧾 Final Note

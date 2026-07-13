@@ -1,230 +1,91 @@
-# 📊 Retail Sales Intelligence Dashboard (2023–2025)
+# 📊 Retail Sales Business Intelligence Dashboard
 
-### *Automated Business Intelligence System for Real-Time Sales & Profit Optimization*
-
----
-
-## 🧭 Project Overview
-
-This project is a fully automated **Retail Sales Business Intelligence Dashboard** built to transform raw transactional data (2023–2025) into actionable executive insights.
-
-It is designed not just as a reporting tool, but as a **decision-support system** that continuously updates every **30 minutes**, enabling real-time visibility into sales performance, profitability, regional trends, and operational efficiency.
-
-Using **Power Query, Excel Data Modeling, Macros, and Advanced KPI Design**, this solution consolidates multiple years of retail data into a single, clean, and structured analytical model.
+An automated Business Intelligence solution built with **Microsoft Excel, Power Query, and VBA** that transforms raw retail sales data into interactive executive dashboards for monitoring sales performance, profitability, and operational efficiency.
 
 ---
 
-## ⚙️ Key Features & Capabilities
+## 📌 Project Overview
 
-* 🔄 **Fully Automated Data Refresh (Every 30 Minutes)**
-* 🧹 **Advanced Data Cleaning Pipeline (Power Query)**
-* 📊 **Multi-Year Dataset Integration (2023, 2024, 2025)**
-* 🧠 **Custom Business Metrics Creation**
-* 🚀 **One-Click Update via Macro (Quick Access Toolbar Integration)**
-* 📈 **Interactive KPI Dashboard with Conditional Formatting**
-* 📍 **Regional & Channel-Level Performance Tracking**
+This project analyzes retail transactions from **2023–2025** to provide real-time visibility into business performance. It combines data cleaning, automation, KPI tracking, and interactive visualizations to support faster, data-driven decision-making.
 
 ---
 
-## 🧠 Data Engineering & Transformation Process
+## 🚀 Key Features
 
-This dashboard is built on a robust data preparation pipeline that ensures accuracy, consistency, and scalability.
-
-### 🔹 Data Cleaning & Preparation
-
-* Removed duplicate records
-* Standardized inconsistent date formats
-* Trimmed and cleaned text/categorical fields
-* Handled missing/null values for analytical integrity
-
-### 🔹 Feature Engineering (New Business Metrics Created)
-
-* **Profit Calculation**
-* **Days to Ship**
-* **Days to Pay**
-* **Net Sales Standardization**
-* **Profit After Discount Impact**
-
-### 🔹 Data Consolidation
-
-* Combined datasets across **three fiscal years (2023–2025)**
-* Unified into a **single analytical model**
-* Structured for dynamic filtering and drill-down analysis
+- Automated data refresh (every 30 minutes)
+- Power Query ETL pipeline
+- Interactive dashboard with slicers
+- Executive KPI cards
+- Regional & product performance analysis
+- Sales, profit & discount monitoring
+- One-click refresh using VBA Macro
 
 ---
 
-## 📊 Dashboard Components & Insights
+## 📊 Dashboard Preview
 
-### 💰 1. Executive KPI Overview
-
-Provides a high-level snapshot of business performance:
-
-* Total Revenue: **$11.07M**
-* Total Profit: **$3.19M**
-* Avg Discount Rate: **10%**
-* Avg Days to Ship: **3 Days**
-* Avg Days to Pay: **16 Days**
-
-📌 **Insight:**
-The dashboard enables leadership to instantly evaluate both **financial performance and operational efficiency**, bridging the gap between sales and logistics.
+> *(Insert dashboard screenshot here)*
 
 ---
 
-### 🌍 2. Regional Performance Analysis
+## 💼 Business Insights
 
-Regional breakdown highlights performance disparities across markets.
-
-* North & West regions lead in overall sales performance
-* East region shows **underperformance in both revenue and profit**
-
-📌 **Insight:**
-The East region represents a strategic improvement opportunity—potential causes may include:
-
-* Lower market penetration
-* Distribution inefficiencies
-* Weak promotional impact
-
-This enables **targeted regional strategy adjustments**.
+- 📈 Revenue exceeded **$11M**, demonstrating consistent business growth.
+- 💰 Profit reached **$3.19M**, though increasing discounts indicate pressure on profit margins.
+- 🌍 Regional analysis revealed performance gaps, highlighting opportunities for targeted sales strategies.
+- 📦 Product analysis identified top-performing products driving overall revenue.
+- 🚚 Average shipping time of **3 days** reflects strong operational efficiency.
 
 ---
 
-### 🏬 3. Sales Channel Performance (Trend Analysis)
+## 🎯 Recommendations
 
-Yearly performance is analyzed across:
-
-* Online Sales
-* Retail Stores
-* Wholesale Channels
-
-Conditional formatting highlights:
-
-* Growth trends (↑)
-* Declines (↓)
-* Performance stability (→)
-
-📌 **Key Insight:**
-While revenue shows growth across years, **profit stability is under pressure due to increasing discount usage**, indicating a potential **margin compression risk**.
+- Optimize discount strategies to improve profit margins.
+- Strengthen underperforming regions through targeted marketing and distribution.
+- Prioritize high-margin products to maximize profitability.
+- Continue monitoring operational KPIs to sustain fulfillment performance.
 
 ---
 
-### 📉 4. Profitability vs Discount Analysis
+## 🛠️ Technologies Used
 
-A dual-axis trend analysis compares:
-
-* Net Sales
-* Profit After Discount
-* Discount Amount
-
-📌 **Critical Insight:**
-Although sales are increasing, rising discount levels are reducing profit efficiency.
-This suggests a **growth strategy driven by price incentives rather than organic demand**, which may require optimization.
+- Microsoft Excel
+- Power Query
+- Pivot Tables & Pivot Charts
+- VBA Macros
+- Data Modeling
+- Conditional Formatting
 
 ---
 
-### 📦 5. Category-Level Performance (Optional Drilldown)
+## 📁 Skills Demonstrated
 
-Supports deep analysis of:
+- Data Cleaning & Transformation
+- Business Intelligence Reporting
+- Dashboard Design
+- KPI Development
+- ETL Automation
+- Sales & Profit Analysis
+- Executive Reporting
+- Data Visualization
 
-* Product category contribution
-* Average unit pricing
-* Revenue distribution across segments
-
-📌 **Insight:**
-Helps identify **high-value product categories** and potential areas for margin expansion.
-
----
-
-## 🛠️ Technical Implementation
-
-### 🔧 Tools & Technologies Used
-
-* Microsoft Excel (Advanced Analytics & Dashboarding)
-* Power Query (ETL & Data Transformation)
-* Macros (Automation & Refresh Control)
-* Conditional Formatting (Performance Indicators)
-* Data Modeling (Multi-table integration logic)
-
----
-
-### ⚡ Automation System
-
-A key highlight of this project is its **self-updating architecture**:
-
-* Data refresh runs automatically every **30 minutes**
-* One-click manual refresh via **Macro button (Quick Access Toolbar)**
-* Ensures dashboard always reflects **near real-time business performance**
-
-📌 **Impact:**
-This eliminates manual reporting and supports **live operational decision-making**.
-
----
-
-## 📷 Dashboard Preview
-
-### 📌 Executive Dashboard Overview
-
-![Dashboard Overview](Retail_Sales_dashboard.gif))
-
-
----
-
-## 💡 Key Business Insights
-
-* 📈 Sales are growing steadily across all years, indicating strong market demand
-* ⚠️ Profit growth is not proportional to sales growth due to increasing discount dependency
-* 🌍 Regional imbalance exists, with the East region significantly underperforming
-* 🏬 Channel performance varies, suggesting optimization opportunities in online vs retail strategy
-* ⚙️ Operational efficiency (3-day shipping cycle) supports strong logistics capability
-
----
-
-## 🎯 Business Recommendations
-
-1. **Optimize Discount Strategy**
-
-   * Reduce blanket discounting
-   * Introduce targeted promotional campaigns
-
-2. **Investigate East Region Performance**
-
-   * Review logistics, pricing, and market penetration
-
-3. **Strengthen High-Margin Channels**
-
-   * Prioritize channels with better profit-to-sales ratios
-
-4. **Improve Profit Tracking Strategy**
-
-   * Shift focus from revenue growth to **margin-driven growth**
 ---
 
 ## 🔗 Project Access
 
-You can view and interact with the full dashboard here:
-
-- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/Retail-Sales-Performance-Intelligence-Dashboard-2023-2025-/blob/main/Retail_Sales.xlsm)
-
----
-
-## 🚀 What This Project Demonstrates
-
-This project highlights:
-
-* Strong **data cleaning & transformation skills**
-* Ability to build **automated BI systems**
-* Understanding of **profitability vs revenue trade-offs**
-* Capability to translate raw data into **executive-level insights**
-* Experience with **real-time dashboard automation**
+📂 **Dashboard:** *(Add Excel file or OneDrive link)*
 
 ---
 
 ## 📬 Contact
 
-* 📧 Email: chiderajohn519@gmail.com
-* 💼 LinkedIn: [View Proflie]( https://www.linkedin.com/in/john-chidera-jr-0b6b55319/)
+**Chidera John**  
+Founder, **Jemva**
+
+📧 chiderajohn519@gmail.com
+
+💼 LinkedIn: *[View Profile](https://www.linkedin.com/in/john-chidera-jr/)*
+
 ---
 
-## 🧾 Final Note
-
-This is not just a dashboard—it is a **self-refreshing business intelligence system designed for continuous decision support**, built to simulate real-world enterprise reporting environments.
-
+>  Transforming data into actionable business intelligence.
